@@ -12,3 +12,4 @@
 /Users/halvorsen/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.pdb
 /Users/halvorsen/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.genruntimeconfig.cache
 /Users/halvorsen/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/ref/Starter.dll
+/Users/halvorsen/Downloads/Guided-project-branching-looping-CSharp-main/GuidedProject/Starter/obj/Debug/net8.0/Starter.sourcelink.json
